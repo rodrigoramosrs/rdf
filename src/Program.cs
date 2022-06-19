@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Security.Cryptography;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace rdf
 {
     internal class Program
     {
